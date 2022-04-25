@@ -1,0 +1,7 @@
+code: example-wiget
+titles:
+  en: Example Widget
+  it: Example Widget
+group: fre
+customUi: <h2> Hello! we are learning to build and build a simple bundle </h2>
+
